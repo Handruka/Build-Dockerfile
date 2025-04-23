@@ -1,7 +1,3 @@
-Вот простой и понятный `README.md` для твоего репозитория [`Build-Dockerfile`](https://github.com/Handruka/Build-Dockerfile):
-
----
-
 ```markdown
 # Build Dockerfile
 
