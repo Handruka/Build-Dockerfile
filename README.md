@@ -50,7 +50,3 @@ Hello, Docker!
 
 [Rukavishnikov Dmitry (Handruka)](https://github.com/Handruka)
 ```
-
----
-
-Если хочешь, я могу помочь тебе улучшить `Dockerfile` (например, сделать multi-stage build) или добавить CI-конфигурацию.
